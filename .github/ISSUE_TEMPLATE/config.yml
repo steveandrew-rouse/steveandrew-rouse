@@ -1,0 +1,10 @@
+# Sends reporters to the structured forms instead of a blank text box,
+# and points them at the right document for security and project status.
+blank_issues_enabled: false
+contact_links:
+  - name: Project register and current status
+    url: https://github.com/steveandrew-rouse/steveandrew-rouse/blob/main/docs/project-status.md
+    about: What is shipped, what is in development, and what is still research.
+  - name: Security policy
+    url: https://github.com/steveandrew-rouse/steveandrew-rouse/blob/main/SECURITY.md
+    about: Report a vulnerability privately instead of opening a public issue.
