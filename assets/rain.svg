@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="matrix data stream">
+  <title>data stream</title>
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="0.75" stop-color="#00ff41" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="70" fill="#000000"/>
+  <g font-family="monospace" font-size="11" letter-spacing="1" fill="url(#f)">
+    <g transform="translate(38,0) rotate(90)" opacity="0.7"><text>010011010100000101010100010100100100100101111000
+      <animateTransform attributeName="transform" type="translate" values="-200 0;200 0" dur="6s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(104,0) rotate(90)" opacity="0.45"><text>101101001011010010110100101101001011010010110100
+      <animateTransform attributeName="transform" type="translate" values="0 -220;0 220" dur="4.5s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(170,0) rotate(90)" opacity="0.85"><text>001100010011001000110011001101000011010100110110
+      <animateTransform attributeName="transform" type="translate" values="-180 0;180 0" dur="7s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(236,0) rotate(90)" opacity="0.35"><text>111001101110011011100110111001101110011011100110
+      <animateTransform attributeName="transform" type="translate" values="0 -200;0 200" dur="5.2s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(302,0) rotate(90)" opacity="0.6"><text>011011100110010101110101011100100110000101101100
+      <animateTransform attributeName="transform" type="translate" values="-220 0;220 0" dur="8s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(368,0) rotate(90)" opacity="0.28"><text>100100101001001010010010100100101001001010010010
+      <animateTransform attributeName="transform" type="translate" values="0 -240;0 240" dur="6.8s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(434,0) rotate(90)" opacity="0.75"><text>01001101010011110100111001000001010100100100001101001000
+      <animateTransform attributeName="transform" type="translate" values="-200 0;200 0" dur="5.5s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(500,0) rotate(90)" opacity="0.4"><text>001011010010110100101101001011010010110100101101
+      <animateTransform attributeName="transform" type="translate" values="0 -210;0 210" dur="9s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(566,0) rotate(90)" opacity="0.9"><text>01000001010010010100000101001100010010010100010101000100
+      <animateTransform attributeName="transform" type="translate" values="-230 0;230 0" dur="5s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(632,0) rotate(90)" opacity="0.32"><text>110100101101001011010010110100101101001011010010
+      <animateTransform attributeName="transform" type="translate" values="0 -230;0 230" dur="7.6s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(698,0) rotate(90)" opacity="0.65"><text>010101010101010101010101010101010101010101010101
+      <animateTransform attributeName="transform" type="translate" values="-190 0;190 0" dur="6.2s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(764,0) rotate(90)" opacity="0.45"><text>011100110111100101110011011101000110010101101101
+      <animateTransform attributeName="transform" type="translate" values="0 -205;0 205" dur="4.8s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(830,0) rotate(90)" opacity="0.8"><text>01000011010011110100010001000101001011110101001101001000
+      <animateTransform attributeName="transform" type="translate" values="-215 0;215 0" dur="7.2s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(896,0) rotate(90)" opacity="0.3"><text>100110011001100110011001100110011001100110011001
+      <animateTransform attributeName="transform" type="translate" values="0 -235;0 235" dur="6.5s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(962,0) rotate(90)" opacity="0.7"><text>010010000100000101000011010010110100010101010010
+      <animateTransform attributeName="transform" type="translate" values="-225 0;225 0" dur="5.8s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(1028,0) rotate(90)" opacity="0.35"><text>001101110011011100110111001101110011011100110111
+      <animateTransform attributeName="transform" type="translate" values="0 -215;0 215" dur="8.4s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(1094,0) rotate(90)" opacity="0.85"><text>010011010100000101010100010100100100100101111000
+      <animateTransform attributeName="transform" type="translate" values="-205 0;205 0" dur="4.6s" repeatCount="indefinite"/></text></g>
+    <g transform="translate(1160,0) rotate(90)" opacity="0.5"><text>01001111010011100100010100101101001100000011000000110001
+      <animateTransform attributeName="transform" type="translate" values="0 -240;0 240" dur="7.9s" repeatCount="indefinite"/></text></g>
+  </g>
+  <rect y="0" width="1200" height="1" fill="#00ff41" opacity="0.35"/>
+  <rect y="69" width="1200" height="1" fill="#00ff41" opacity="0.35"/>
+</svg>
