@@ -63,7 +63,7 @@ Turn AI, automation and human-centered design into operating environments and
 secure digital infrastructure with advanced visualization.
 
 > load
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□]  87% — always compiling
+[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□]  87% — always compiling
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/steveandrew-rouse/steveandrew-rouse/main/assets/rain.svg" alt="" />
