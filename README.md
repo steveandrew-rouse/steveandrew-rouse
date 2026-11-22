@@ -63,7 +63,7 @@ Turn AI, automation and human-centered design into operating environments and
 secure digital infrastructure with advanced visualization.
 
 > load
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□]  87% — always compiling
+[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□]  87% — always compiling
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/steveandrew-rouse/steveandrew-rouse/main/assets/rain.svg" alt="" />
@@ -289,12 +289,6 @@ steveandrewrouse@gmail.com
 
 <a href="https://github.com/steveandrew-rouse">
   <img src="https://img.shields.io/badge/GitHub-steveandrew--rouse-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/steverouse">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/steverouse">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00ff41" alt="Twitter" />
 </a>
 
 <br /><br />
