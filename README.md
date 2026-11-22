@@ -16,7 +16,7 @@
 <br />
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00ff41" alt="status" />
-<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT%20SYSTEMS-00ff41?style=for-the-badge&labelColor=000000&logo=ai&logoColor=00ff41" alt="focus" />
+<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT%20SYSTEMS-00ff41?style=for-the-badge&labelColor=000000&logo=openai&logoColor=00ff41" alt="focus" />
 <img src="https://img.shields.io/badge/MODE-HACKER-00ff41?style=for-the-badge&labelColor=000000&logo=gnubash&logoColor=00ff41" alt="mode" />
 <img src="https://komarev.com/ghpvc/?username=steveandrew-rouse&label=INTRUSIONS&color=00ff41&style=for-the-badge" alt="profile views" />
 
@@ -193,7 +193,7 @@ Keep humans in control. Make the machine feel like a collaborator, not a console
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=00ff41" />
