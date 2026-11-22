@@ -1,0 +1,43 @@
+name: Bug report
+about: Something on the profile is broken — a dead link, a missing badge, a failing workflow.
+description: Report a broken link, image, badge or workflow
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This repository renders a GitHub profile, so "bug" usually means a broken image, a dead link,
+        or a failing workflow. Please include where you saw it and what you expected instead.
+  - type: input
+    id: where
+    attributes:
+      label: Where does it break?
+      description: Section of the README, file in the repository, or URL.
+      placeholder: e.g. README section "neural_stack", or assets/rain.svg
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happens
+      description: What renders or fails, and what you expected. Paste errors verbatim.
+      placeholder: |
+        Actual:
+        Expected:
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser and OS, or the GitHub app you are using.
+      placeholder: e.g. Chrome 140 on Windows 11
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I reloaded with the cache cleared.
+        - label: I checked the page on github.com itself, not only in an editor preview.
+        - label: I searched existing issues for the same problem.
+          required: true
