@@ -206,16 +206,20 @@ A bookshelf instead of a private notebook: each student keeps a public book of i
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=steveandrew-rouse&theme=matrix&no-frame=true&no-bg=true&column=8&margin-w=6&margin-h=6" alt="trophies" />
-
-<br /><br />
-
 <img height="168" src="https://github-readme-stats.vercel.app/api?username=steveandrew-rouse&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ff41&text_color=a8ffb2&icon_color=00ff41&border_color=005c1a" alt="stats" />
 <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveandrew-rouse&layout=compact&langs_count=9&bg_color=000000&title_color=00ff41&text_color=a8ffb2&border_color=005c1a" alt="top languages" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=steveandrew-rouse&background=000000&border=005c1a&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=a8ffb2&currStreakLabel=00ff41&sideLabels=a8ffb2&dates=4d7a55" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=steveandrew-rouse&background=000000&border=005c1a&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=a8ffb2&currStreakLabel=00ff41&sideLabels=a8ffb2&dates=4d7a55" alt="streak" />
+
+<br /><br />
+
+<a href="https://github.com/steveandrew-rouse/Kate-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=steveandrew-rouse&repo=Kate-&bg_color=000000&title_color=00ff41&text_color=a8ffb2&icon_color=00ff41&border_color=005c1a" alt="Kate.OS" /></a>
+<a href="https://github.com/steveandrew-rouse/opera-nation"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=steveandrew-rouse&repo=opera-nation&bg_color=000000&title_color=00ff41&text_color=a8ffb2&icon_color=00ff41&border_color=005c1a" alt="Opera Nation" /></a>
+
+<a href="https://github.com/steveandrew-rouse/sim-ios"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=steveandrew-rouse&repo=sim-ios&bg_color=000000&title_color=00ff41&text_color=a8ffb2&icon_color=00ff41&border_color=005c1a" alt="Remote iOS Simulator" /></a>
+<a href="https://github.com/steveandrew-rouse/starlytechsocial"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=steveandrew-rouse&repo=starlytechsocial&bg_color=000000&title_color=00ff41&text_color=a8ffb2&icon_color=00ff41&border_color=005c1a" alt="Starly social card" /></a>
 
 <br /><br />
 
