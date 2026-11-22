@@ -1,0 +1,46 @@
+name: Feature request
+description: Suggest an improvement to the profile or its assets
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep in mind that GitHub's Markdown sanitiser removes scripts, external fonts and
+        most inline styling, so ideas that depend on JavaScript cannot be rendered here.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the problem?
+      description: Describe the gap, not the solution you have in mind.
+      placeholder: A reader cannot tell which systems are shipped and which are research.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: What should it look like on the profile? Sketches and rough ASCII are fine.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - README copy or structure
+        - Animated SVG asset
+        - Badge or stats card
+        - GitHub Actions workflow
+        - Accessibility
+        - Something else
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: This does not require JavaScript, external fonts or tracking pixels on the profile.
+          required: true
+        - label: I searched existing issues and pull requests first.
+          required: true
