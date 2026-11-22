@@ -1,0 +1,6 @@
+# Hand-authored artwork is documentation, not source code.
+assets/** linguist-documentation
+*.svg linguist-documentation
+
+# Generated output (contribution snake) lives on the output branch only.
+*.png binary
