@@ -1,5 +1,4 @@
 name: Bug report
-about: Something on the profile is broken — a dead link, a missing badge, a failing workflow.
 description: Report a broken link, image, badge or workflow
 labels: ["bug"]
 body:
